@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Documental | Porque los artículos tienen estructura y metadatos variables.
